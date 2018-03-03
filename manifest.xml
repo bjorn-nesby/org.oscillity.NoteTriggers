@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RenoiseScriptingTool doc_version="0">
+  <ApiVersion>5</ApiVersion>
+  <Id>org.oscillity.NoteTriggers</Id>
+  <Version>1.0</Version>
+  <Author>danoise</Author>
+  <Name>NoteTriggers</Name>
+  <Description>A simple demonstration of how to trigger notes via OSC</Description>
+</RenoiseScriptingTool>
